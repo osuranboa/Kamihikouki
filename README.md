@@ -4,6 +4,7 @@ Please join [my Discord server](https://discord.gg/2WGqT7B).
 
 ### Features
 - CLI support.
+- Base64 URL input.
 - Download in batch from text file.
 - Max path length exceedance handling for Windows.
 - For those who don't like using the CLI, URL input via the console.
