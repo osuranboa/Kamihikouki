@@ -27,7 +27,7 @@ Please join [my Discord server](https://discord.gg/2WGqT7B).
 ### In Development
 | Host  | Info | Author |
 | ------------- | ------------- | ------------- 
-| real-debrid.com | Single files or folders. Account req. | Sorrow446
+| real-debrid.com | Single files & folders. Account req. | Sorrow446
 | soundcloud.com | Single & user tracks. Attachments by choice. | Sorrow446
 
 # Usage 
