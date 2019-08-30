@@ -49,6 +49,6 @@ Drag the text file onto the tool.
 Pass the text file's filename via the CLI:
 ``` KAMIHIKOUKI <text_file>```  
 
-### Disclaimer
-I will not be responsible for how you use this tool.     
-This tool has no partnership, sponsorship or endorsement with any of the supported hosts.  
+# Disclaimer
+I will not be responsible for how you use this tool.  
+This tool has no partnership, sponsorship or endorsement with any of the supported hosts.
