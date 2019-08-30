@@ -7,7 +7,7 @@ Please join [my Discord server](https://discord.gg/2WGqT7B).
 - Base64 URL input.
 - Download in batch from text file.
 - Max path length exceedance handling for Windows.
-- For those who don't like using the CLI, URL input via the console.
+- For those who don't like using the CLI: URL input via the console.
 - Filename stripping of unsupported characters in accordance to the user's OS.
 - Already existing filename handling. `file.flac -> file (2).flac`, `file (2).flac -> file (3).flac`
 
