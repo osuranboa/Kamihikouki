@@ -9,7 +9,7 @@ Please join [my Discord server](https://discord.gg/2WGqT7B).
 - Max path length exceedance handling for Windows.
 - For those who don't like using the CLI, URL input via the console.
 - Filename stripping of unsupported characters in accordance to the user's OS.
-- Already existing filename handling. `file.flac -> file (1).flac`, `file (1).flac -> file (2).flac`
+- Already existing filename handling. `file.flac -> file (2).flac`, `file (2).flac -> file (3).flac`
 
 ### Supported Hosts
 | Host  | Info | Author |
